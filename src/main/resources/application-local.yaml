@@ -1,0 +1,4 @@
+toastmaster:
+  email:
+    from: from@gmail.com
+    to: to@gmail.com
